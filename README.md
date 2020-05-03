@@ -1,1 +1,1 @@
-# scraping-coursera
+# Scraping Coursera with Golang and Colly
